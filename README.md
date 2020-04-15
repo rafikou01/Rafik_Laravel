@@ -6,7 +6,7 @@ README Projet RAFIK_LARAVEL  M1DCISS
 - Ouvrir l'invité de commande
 - Vous placer dans le dossier où vous voulez cloner le projet
 - Utiliser la commande suivante:
-		$ git clone https://github.com/rafikou01/Laravel_Rafik.git
+		$ git clone https://github.com/rafikou01/Rafik_Laravel.git
 
 2. Pour qu'une base de donnée soit utilisable:
 - Créer la base de données sqlite dans le répertoire database du projet
